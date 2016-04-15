@@ -1,0 +1,28 @@
+name: Cigar Art
+favicon: null
+layout_spectrum: 0.08025034377351403
+typography_spectrum: 0.8666652143001556
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7836329266428947
+  lightness: 0.09400971443392336
+  saturation: 0.2050678210798651
+  rhythmicContrast: 0.30935165379196405
+purpose: []
